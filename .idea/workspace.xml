@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="814476f1-09f2-4a5e-9f55-43e180b9b1d4" name="Changes" comment="" />
+    <list default="true" id="814476f1-09f2-4a5e-9f55-43e180b9b1d4" name="Changes" comment="">
+      <change beforePath="$USER_HOME$/Desktop/-/Desktop/ConsoleKullanimi/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/Desktop/-/Desktop/ConsoleKullanimi/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Desktop/-/Desktop/ConsoleKullanimi" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ZilhaKalac"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ZilhaKalac/ConsoleKullanimi.git",
+    "accountId": "25e1aee8-f7ba-4998-8287-9d9b74f6b464"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -36,7 +50,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="TaskManager">
